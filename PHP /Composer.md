@@ -47,6 +47,6 @@ Donc nous allons placer le dossier vendor dans notre .gitignore
 
 Il faut impérativement faire un require du fichier autoload.php qui se situe dans le dossier vendor ! 
 
-```
+```php
 require __DIR__ . '/../vendor/autoload.php';
 ```
